@@ -119,4 +119,4 @@ library-management-system/
 
 ## Academic Integrity
 
-This project was designed and implemented independently as part of the B100 module assessment. All code is original work by the student.
+This project was designed and implemented independently as part of the B100 module assessment. All code is original work by me.
